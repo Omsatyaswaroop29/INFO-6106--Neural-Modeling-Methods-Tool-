@@ -18,7 +18,7 @@
   - [Deep Neural Networks](#deep-neural-networks)
   - [Recurrent Neural Networks](#recurrent-neural-networks)
   - [PyTorch Models](#pytorch-models)
-  - [OpenLane-V2 Integration](#openlane-v2-integration)
+- [🚗 OpenLane-V2 Integration](#-openlane-v2-integration)
 - [Implementations](#-implementations)
 - [Model Performance](#-model-performance)
 - [Technologies Used](#-technologies-used)
