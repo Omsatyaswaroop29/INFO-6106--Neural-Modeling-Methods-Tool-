@@ -1,6 +1,6 @@
 <div id="top" align="center">
 
-# Neural Modeling Methods & Tools
+# Mapless Autonomous Navigation
 
 **Advanced Neural Network Implementations and Research Projects**
 
